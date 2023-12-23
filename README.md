@@ -1,36 +1,3 @@
-<style>
-    h1 {
-        text-align: center;
-        font-size: 28pt;
-        border: none;
-        margin-bottom: 0;
-    }
-    h4 {
-        text-align: center;
-        margin-top: 0;
-        margin-bottom: 25px;
-    }
-
-    p {
-        margin: 0;
-    }
-    
-    img {
-        border-radius: 15px;
-        float: right;
-        width: 100px;
-        margin-left: 25px;
-        margin-right: 25px;
-    }
-
-    div {
-        background-color: rgb(50, 50, 50);
-        padding: 15px;
-        border-radius: 7.5px;
-        padding-top: 5px;
-        border: none;
-    }
-</style>
 <div>
     <h1>Welcome</h1>
     <h4>To the Official Prototype repo of ELS 2<sup>nd</sup> Prep's Utopia Website</h4>
